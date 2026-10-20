@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matches</string>
+
+    <string name="action_accept">Accept</string>
+    <string name="action_reject">Reject</string>
+    <string name="action_retry">Try again</string>
+    <string name="action_call">Call %1$s</string>
+    <string name="action_email">Email %1$s</string>
+
+    <string name="state_loading">Loading matches</string>
+    <string name="state_empty_title">No more matches</string>
+    <string name="state_empty_body">You have reviewed every profile in this list.</string>
+    <string name="state_error_title">Couldn\'t load matches</string>
+    <string name="state_error_body">Something went wrong. Check your connection and try again.</string>
+</resources>
